@@ -6,7 +6,7 @@ Dbamy o Twoją prywatność. Aplikacja została zaprojektowana tak, aby zbierać
 
 ## 1. Kto jest administratorem danych
 
-Administratorem danych jest Weronika Gulij, (dalej: „administrator”).
+Administratorem danych jest Weronika Gulij, (dalej: „my”).
 
 W sprawach dotyczących prywatności możesz napisać do nas na adres: weronikagulij@gmail.com.
 
@@ -50,7 +50,7 @@ Rekomendacje materiałów powstają automatycznie na podstawie wybranych przez C
 
 Korzystamy z usług zaufanych podmiotów, które przetwarzają dane w naszym imieniu i wyłącznie w zakresie niezbędnym do działania aplikacji:
 
-- **[DOSTAWCA HOSTINGU SERWERA]** – utrzymanie serwera aplikacji,
+- **Vercel** – utrzymanie serwera aplikacji,
 - **MongoDB Atlas** – przechowywanie danych profilu i polubień,
 - **Cloudinary** – przechowywanie i dostarczanie nagrań oraz grafik. Gdy odtwarzasz materiał, Twoje urządzenie łączy się bezpośrednio z serwerami Cloudinary, które przetwarzają przy tym Twój adres IP.
 
@@ -96,4 +96,4 @@ Materiały w aplikacji mają charakter edukacyjny i relaksacyjny. Nie stanowią 
 
 ## 12. Zmiany polityki prywatności
 
-Możemy aktualizować tę politykę, na przykład gdy dodamy nowe funkcje. O istotnych zmianach poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna pod adresem [ADRES URL].
+Możemy aktualizować tę politykę, na przykład gdy dodamy nowe funkcje. O istotnych zmianach poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna pod adresem [https://github.com/Tech-with-Heart/privacy-policies/blob/main/przystan.md](https://github.com/Tech-with-Heart/privacy-policies/blob/main/przystan.md).

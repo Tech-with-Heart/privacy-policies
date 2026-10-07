@@ -1,6 +1,6 @@
 # Polityka Prywatności aplikacji Przystań
 
-Data ostatniej aktualizacji: 5.10.2026
+Data ostatniej aktualizacji: 7.10.2026
 
 Dbamy o Twoją prywatność. Aplikacja została zaprojektowana tak, aby zbierać możliwie mało danych: nie zakładasz w niej konta, nie podajesz imienia, adresu e-mail ani numeru telefonu. Poniżej wyjaśniamy, jakie informacje przetwarzamy, w jakim celu i jakie masz w związku z tym prawa.
 
@@ -20,12 +20,12 @@ W sprawach dotyczących prywatności możesz napisać do nas na adres: weronikag
 ### Dane tworzone automatycznie
 
 - **Anonimowy identyfikator użytkownika** – losowy identyfikator nadawany przy pierwszym uruchomieniu aplikacji oraz powiązany z nim token, zapisany w pamięci aplikacji na Twoim urządzeniu. Dzięki niemu aplikacja rozpoznaje Twój profil bez logowania.
-- **Data utworzenia profilu**, a także **data ostatniej aktywności** i **lista odtworzonych materiałów**.
+- **Data utworzenia profilu**, a także **data ostatniej aktywności**.
 - **Dane techniczne** – adres IP oraz podstawowe informacje o żądaniu (data, godzina, rodzaj zapytania), które są przetwarzane przy każdym połączeniu aplikacji z serwerem i mogą być zapisywane w logach dostawcy hostingu.
 
 ### Czego nie zbieramy
 
-Nie zbieramy imienia i nazwiska, adresu e-mail, numeru telefonu, lokalizacji, kontaktów, zdjęć ani nagrań z mikrofonu. Aplikacja nie zawiera reklam, narzędzi analitycznych ani mechanizmów śledzących Twoją aktywność w innych aplikacjach i na stronach internetowych.
+Nie zbieramy imienia i nazwiska, adresu e-mail, numeru telefonu, lokalizacji, kontaktów, zdjęć ani nagrań z mikrofonu. Aplikacja nie zawiera reklam, narzędzi analitycznych ani mechanizmów śledzących Twoją aktywność w innych aplikacjach i na stronach internetowych. W celu zapewnienia większej prywatności nie zbieramy także listy odtworzonych materiałów. Wszystkie propozycje materiałów do obejrzenia są wyświetlane na podstawie informacji podanych wprost przez użytkownika.
 
 ## 3. Informacje o samopoczuciu
 

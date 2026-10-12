@@ -75,7 +75,7 @@ Dane profilu i polubienia można usunąć przechodząc do zakładki: Profil -> T
 
 Dane zostają też automatycznie usunięte po okresie 6 miesięcy od ostatniej aktywności.
 
-## 8. Twoje prawa
+## 9. Twoje prawa
 
 Masz prawo do:
 
@@ -90,18 +90,18 @@ Masz prawo do:
 
 Aby skorzystać z tych praw, napisz do nas na adres e-mail. Ponieważ nie znamy Twojej tożsamości, do odnalezienia profilu możemy potrzebować identyfikatora zapisanego w aplikacji.
 
-## 9. Bezpieczeństwo
+## 10. Bezpieczeństwo
 
 Połączenie między aplikacją a serwerem jest szyfrowane (HTTPS). Dostęp do bazy danych mają wyłącznie osoby upoważnione. Profil na serwerze nie zawiera danych, które pozwalałyby bezpośrednio ustalić Twoją tożsamość.
 
-## 10. Dzieci
+## 11. Dzieci
 
 Aplikacja jest przeznaczona dla osób, które ukończyły 18 lat. Nie zbieramy świadomie danych młodszych osób.
 
-## 11. Aplikacja nie zastępuje pomocy specjalisty
+## 12. Aplikacja nie zastępuje pomocy specjalisty
 
 Materiały w aplikacji mają charakter edukacyjny i relaksacyjny. Nie stanowią porady medycznej, diagnozy ani terapii. Jeśli jesteś w kryzysie lub Twoje zdrowie albo życie jest zagrożone, zadzwoń pod numer alarmowy 112 lub skorzystaj z Centrum Wsparcia dla Osób Dorosłych w Kryzysie Psychicznym: 800 70 2222 (bezpłatnie, całodobowo).
 
-## 12. Zmiany polityki prywatności
+## 13. Zmiany polityki prywatności
 
 Możemy aktualizować tę politykę, na przykład gdy dodamy nowe funkcje. O istotnych zmianach poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna pod adresem [https://github.com/Tech-with-Heart/privacy-policies/blob/main/przystan.md](https://github.com/Tech-with-Heart/privacy-policies/blob/main/przystan.md).

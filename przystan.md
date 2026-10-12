@@ -1,6 +1,6 @@
 # Polityka Prywatności aplikacji Przystań
 
-Data ostatniej aktualizacji: 7.10.2026
+Data ostatniej aktualizacji: 12.10.2026
 
 Dbamy o Twoją prywatność. Aplikacja została zaprojektowana tak, aby zbierać możliwie mało danych: nie zakładasz w niej konta, nie podajesz imienia, adresu e-mail ani numeru telefonu. Poniżej wyjaśniamy, jakie informacje przetwarzamy, w jakim celu i jakie masz w związku z tym prawa.
 
@@ -20,7 +20,7 @@ W sprawach dotyczących prywatności możesz napisać do nas na adres: weronikag
 ### Dane tworzone automatycznie
 
 - **Anonimowy identyfikator użytkownika** – losowy identyfikator nadawany przy pierwszym uruchomieniu aplikacji oraz powiązany z nim token, zapisany w pamięci aplikacji na Twoim urządzeniu. Dzięki niemu aplikacja rozpoznaje Twój profil bez logowania.
-- **Data utworzenia profilu**, a także **data ostatniej aktywności**.
+- **Data utworzenia profilu**, a także **data ostatniej aktywności** (data ostatniego zalogowania do aplikacji).
 - **Dane techniczne** – adres IP oraz podstawowe informacje o żądaniu (data, godzina, rodzaj zapytania), które są przetwarzane przy każdym połączeniu aplikacji z serwerem i mogą być zapisywane w logach dostawcy hostingu.
 
 ### Czego nie zbieramy
@@ -62,10 +62,18 @@ Niektórzy z naszych dostawców mogą przetwarzać dane poza EOG, w szczególno�
 
 ## 7. Jak długo przechowujemy dane
 
-- Dane profilu i polubienia przechowujemy do czasu usunięcia profilu na Twoje żądanie albo przez 24 miesiące od ostatniej aktywności – w zależności od tego, co nastąpi wcześniej.
+- Dane profilu i polubienia przechowujemy do czasu usunięcia profilu na Twoje żądanie albo przez 6 miesięcy od ostatniej aktywności – w zależności od tego, co nastąpi wcześniej.
 - Logi techniczne przechowujemy przez 30 dni.
 
 Token jest zapisany wyłącznie na Twoim urządzeniu. Odinstalowanie aplikacji lub wyczyszczenie jej danych usuwa token – po tym nie da się już połączyć profilu na serwerze z Tobą ani z Twoim urządzeniem.
+
+## 8. Usunięcie danych
+
+Dane profilu i polubienia można usunąć przechodząc do zakładki: Profil -> Twoje dane, po czym klikając "Usuń dane" i potwierdzając akcję w wyświetlanym modalu. Użytkownik zostanie automatycznie wylogowany.
+
+<img width="393" height="771" alt="image" src="https://github.com/user-attachments/assets/473bde46-6e01-4e7c-ae26-23b9b6d7fde8" />
+
+Dane zostają też automatycznie usunięte po okresie 6 miesięcy od ostatniej aktywności.
 
 ## 8. Twoje prawa
 
